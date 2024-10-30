@@ -11,5 +11,3 @@ This repository contains:
 
 Each question is accompanied by a detailed solution, making it easier for you to learn and understand the material.
 
-## Repository Structure
-
